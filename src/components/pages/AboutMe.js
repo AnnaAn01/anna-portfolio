@@ -1,4 +1,5 @@
 import React, { useEffect } from "react";
+import { Link } from "react-router-dom";
 import "./AboutMe.css";
 import Typewriter from "typewriter-effect";
 import {
@@ -96,12 +97,12 @@ function AboutMe() {
         </div>
       </div>
       <div className="aboutMeBtns">
-        <a href="/portfolio" className="projectsBtn">
+        <Link to="/portfolio" className="projectsBtn">
           My Projects
-        </a>
-        <a href="/contactme" className="contactMeBtn">
+        </Link>
+        <Link to="/contactme" className="contactMeBtn">
           Contact me
-        </a>
+        </Link>
       </div>
     </div>
   );
