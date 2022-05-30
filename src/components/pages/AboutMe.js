@@ -96,10 +96,16 @@ function AboutMe() {
         </div>
       </div>
       <div className="aboutMeBtns">
-        <a href="/portfolio#/portfolio" className="projectsBtn">
+        <a
+          href="https://annaan01.github.io/anna-portfolio/#/portfolio"
+          className="projectsBtn"
+        >
           My Projects
         </a>
-        <a href="/portfolio#/contactme" className="contactMeBtn">
+        <a
+          href="https://annaan01.github.io/anna-portfolio/#/contactme"
+          className="contactMeBtn"
+        >
           Contact me
         </a>
       </div>
