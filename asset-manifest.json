@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/anna-portfolio/static/css/main.2d96e214.chunk.css",
-    "main.js": "/anna-portfolio/static/js/main.bb0d1bb2.chunk.js",
-    "main.js.map": "/anna-portfolio/static/js/main.bb0d1bb2.chunk.js.map",
+    "main.js": "/anna-portfolio/static/js/main.d981df12.chunk.js",
+    "main.js.map": "/anna-portfolio/static/js/main.d981df12.chunk.js.map",
     "runtime-main.js": "/anna-portfolio/static/js/runtime-main.9da83621.js",
     "runtime-main.js.map": "/anna-portfolio/static/js/runtime-main.9da83621.js.map",
-    "static/js/2.2ac59e65.chunk.js": "/anna-portfolio/static/js/2.2ac59e65.chunk.js",
-    "static/js/2.2ac59e65.chunk.js.map": "/anna-portfolio/static/js/2.2ac59e65.chunk.js.map",
+    "static/js/2.b986cc72.chunk.js": "/anna-portfolio/static/js/2.b986cc72.chunk.js",
+    "static/js/2.b986cc72.chunk.js.map": "/anna-portfolio/static/js/2.b986cc72.chunk.js.map",
     "index.html": "/anna-portfolio/index.html",
     "static/css/main.2d96e214.chunk.css.map": "/anna-portfolio/static/css/main.2d96e214.chunk.css.map",
-    "static/js/2.2ac59e65.chunk.js.LICENSE.txt": "/anna-portfolio/static/js/2.2ac59e65.chunk.js.LICENSE.txt",
+    "static/js/2.b986cc72.chunk.js.LICENSE.txt": "/anna-portfolio/static/js/2.b986cc72.chunk.js.LICENSE.txt",
     "static/media/coming-soon.3c10d701.png": "/anna-portfolio/static/media/coming-soon.3c10d701.png",
     "static/media/glass-2.fa326698.jpg": "/anna-portfolio/static/media/glass-2.fa326698.jpg",
     "static/media/lang-course-1.04daa4c3.PNG": "/anna-portfolio/static/media/lang-course-1.04daa4c3.PNG",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9da83621.js",
-    "static/js/2.2ac59e65.chunk.js",
+    "static/js/2.b986cc72.chunk.js",
     "static/css/main.2d96e214.chunk.css",
-    "static/js/main.bb0d1bb2.chunk.js"
+    "static/js/main.d981df12.chunk.js"
   ]
 }
