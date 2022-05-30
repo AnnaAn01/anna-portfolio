@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Roboto:wght@300;400;500;700&display=swap");
+html {
+  font-size: 62.5%;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  /* font-family: "Lato", sans-serif; */
+  font-family: "Roboto", sans-serif;
+  /* font-family: "Satoshi", sans-serif; */
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+.about-me,
+.portfolio,
+.myCv,
+.blog,
+.contact-me {
+  display: flex;
+  height: 90vh;
+  font-size: 3rem;
+}
+
+::selection {
+  /* background-color: #5fbba1; */
+  background-color: rgb(57, 87, 78);
+  color: white;
+}
