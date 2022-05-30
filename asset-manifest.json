@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/anna-portfolio/static/css/main.2d96e214.chunk.css",
+    "main.js": "/anna-portfolio/static/js/main.82e7095f.chunk.js",
+    "main.js.map": "/anna-portfolio/static/js/main.82e7095f.chunk.js.map",
+    "runtime-main.js": "/anna-portfolio/static/js/runtime-main.9da83621.js",
+    "runtime-main.js.map": "/anna-portfolio/static/js/runtime-main.9da83621.js.map",
+    "static/js/2.a0c85bf9.chunk.js": "/anna-portfolio/static/js/2.a0c85bf9.chunk.js",
+    "static/js/2.a0c85bf9.chunk.js.map": "/anna-portfolio/static/js/2.a0c85bf9.chunk.js.map",
+    "index.html": "/anna-portfolio/index.html",
+    "static/css/main.2d96e214.chunk.css.map": "/anna-portfolio/static/css/main.2d96e214.chunk.css.map",
+    "static/js/2.a0c85bf9.chunk.js.LICENSE.txt": "/anna-portfolio/static/js/2.a0c85bf9.chunk.js.LICENSE.txt",
+    "static/media/coming-soon.3c10d701.png": "/anna-portfolio/static/media/coming-soon.3c10d701.png",
+    "static/media/glass-2.fa326698.jpg": "/anna-portfolio/static/media/glass-2.fa326698.jpg",
+    "static/media/lang-course-1.04daa4c3.PNG": "/anna-portfolio/static/media/lang-course-1.04daa4c3.PNG",
+    "static/media/photoSketch-1.fb8b2a4e.jpg": "/anna-portfolio/static/media/photoSketch-1.fb8b2a4e.jpg",
+    "static/media/photoSketch.6a6a04ac.jpg": "/anna-portfolio/static/media/photoSketch.6a6a04ac.jpg",
+    "static/media/project-gif-test.7c9b3045.gif": "/anna-portfolio/static/media/project-gif-test.7c9b3045.gif",
+    "static/media/project-image-default.6fbc930b.jpg": "/anna-portfolio/static/media/project-image-default.6fbc930b.jpg",
+    "static/media/project-video-default.19e6d4db.mp4": "/anna-portfolio/static/media/project-video-default.19e6d4db.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9da83621.js",
+    "static/js/2.a0c85bf9.chunk.js",
+    "static/css/main.2d96e214.chunk.css",
+    "static/js/main.82e7095f.chunk.js"
+  ]
+}
