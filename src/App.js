@@ -11,7 +11,7 @@ import ContactMe from "./components/pages/ContactMe";
 function App() {
   return (
     <div>
-      <Router basename="/">
+      <Router>
         <Sidebar />
         <Routes>
           <Route path="/" exact element={<AboutMe />} />
