@@ -11,12 +11,14 @@ import {
 } from "react-icons/si";
 import { DiSass } from "react-icons/di";
 import { IoLogoJavascript } from "react-icons/io";
+import Sidebar from "../Sidebar";
 
 import BackgroundImage from "../../components/image/glass-2.jpg";
 
 function AboutMe() {
   return (
     <div className="about-me">
+      {/*<Sidebar />*/}
       {/*<img className="bg-image" src={BackgroundImage} alt="bg" />*/}
       <img className="bg-image" src={BackgroundImage} alt="bg" />
       <div className="about-wrapper">

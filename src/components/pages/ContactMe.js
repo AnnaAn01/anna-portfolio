@@ -2,6 +2,7 @@ import React from "react";
 import "./ContactMe.css";
 import * as MdIcons from "react-icons/md";
 import * as FaIcons from "react-icons/fa";
+import Sidebar from "../Sidebar";
 
 function ContactMe() {
   return (
