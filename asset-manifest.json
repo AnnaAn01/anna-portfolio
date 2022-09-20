@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/anna-portfolio/static/css/main.bb4b27b7.chunk.css",
+    "main.css": "/anna-portfolio/static/css/main.1f0dd52b.chunk.css",
     "main.js": "/anna-portfolio/static/js/main.221a230d.chunk.js",
     "main.js.map": "/anna-portfolio/static/js/main.221a230d.chunk.js.map",
     "runtime-main.js": "/anna-portfolio/static/js/runtime-main.9da83621.js",
@@ -8,7 +8,7 @@
     "static/js/2.3398cd4e.chunk.js": "/anna-portfolio/static/js/2.3398cd4e.chunk.js",
     "static/js/2.3398cd4e.chunk.js.map": "/anna-portfolio/static/js/2.3398cd4e.chunk.js.map",
     "index.html": "/anna-portfolio/index.html",
-    "static/css/main.bb4b27b7.chunk.css.map": "/anna-portfolio/static/css/main.bb4b27b7.chunk.css.map",
+    "static/css/main.1f0dd52b.chunk.css.map": "/anna-portfolio/static/css/main.1f0dd52b.chunk.css.map",
     "static/js/2.3398cd4e.chunk.js.LICENSE.txt": "/anna-portfolio/static/js/2.3398cd4e.chunk.js.LICENSE.txt",
     "static/media/coming-soon.3c10d701.png": "/anna-portfolio/static/media/coming-soon.3c10d701.png",
     "static/media/glass-2.fa326698.jpg": "/anna-portfolio/static/media/glass-2.fa326698.jpg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.9da83621.js",
     "static/js/2.3398cd4e.chunk.js",
-    "static/css/main.bb4b27b7.chunk.css",
+    "static/css/main.1f0dd52b.chunk.css",
     "static/js/main.221a230d.chunk.js"
   ]
 }
