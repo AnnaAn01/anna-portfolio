@@ -1,6 +1,9 @@
 :root {
   /* Colors */
-  --main-bg-color: #e85a4f;
+  --main-bg-color: rgb(232, 89, 79);
+  --main-bg-color: #666666;
+  /* --main-bg-color: #e8594f66; */
+  --main-bg-color: #c53a30;
   --secondary-page-color: rgb(57, 87, 78);
   --main-title-color: #555555;
 }

@@ -1,4 +1,3 @@
-import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
 import "./AboutMe.css";
 import Typewriter from "typewriter-effect";
@@ -11,24 +10,22 @@ import {
 } from "react-icons/si";
 import { DiSass } from "react-icons/di";
 import { IoLogoJavascript } from "react-icons/io";
-import Sidebar from "../Sidebar";
 
-import BackgroundImage from "../../components/image/glass-2.jpg";
+// import BackgroundImage from "../../components/image/glass-2.jpg";
+// import BackgroundImage from "../../components/image/g-3.jpg";
+// import BackgroundImage from "../../components/image/background_wals_white_generated.jpg";
+// import BackgroundImage from "../../components/image/grey-wall.jpeg";
+import BackgroundImage from "../../components/image/grey-brick-2.jpeg";
+// import BackgroundImage from "../../components/image/sp-cer.jpg";
 
 function AboutMe() {
   return (
     <div className="about-me">
-      {/*<Sidebar />*/}
-      {/*<img className="bg-image" src={BackgroundImage} alt="bg" />*/}
       <img className="bg-image" src={BackgroundImage} alt="bg" />
       <div className="about-wrapper">
         <div className="about-card">
-          {/*<h3 className="about-title">Hi, I'm Anna, a front-end developer.</h3>*/}
           <h3>
             <div className="about-title">Welcome</div>
-            {/* <div className="title2">{state.title2}</div>
-            <div className="title3">{state.title3}</div>*/}
-
             <div className="about-title typing">
               <Typewriter
                 options={{

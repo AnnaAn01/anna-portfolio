@@ -16,7 +16,11 @@ function ContactMe() {
         <ul className="contact-items">
           <li className="email-item">
             <div className="div-item-name">Email:</div>
-            <a href="mailto: arzumanyan.an@gmail.com" className="items email">
+            <a
+              href="mailto: arzumanyan.an@gmail.com"
+              className="items email"
+              aria-label="Email"
+            >
               <MdIcons.MdEmail className="contact-icons" />
               arzumanyan.an@gmail.com
             </a>
@@ -27,6 +31,7 @@ function ContactMe() {
             <a
               target="_blank"
               rel="noreferrer"
+              aria-label="LinkedIn"
               href="https://linkedin.com/in/anna-arzumanyan/"
               className="items linkedin"
             >
@@ -39,6 +44,7 @@ function ContactMe() {
             <a
               target="_blank"
               rel="noreferrer"
+              aria-label="GitHub"
               href="https://github.com/AnnaAn01"
               className="items github"
             >
@@ -52,6 +58,7 @@ function ContactMe() {
             <a
               target="_blank"
               rel="noreferrer"
+              aria-label="Twitter"
               href="https://twitter.com/AnnaSoftwareDev"
               className="items twitter"
             >
@@ -66,6 +73,7 @@ function ContactMe() {
             <a
               target="_blank"
               rel="noreferrer"
+              aria-label="Youtube"
               href="https://youtube.com"
               className="items youtube"
             >

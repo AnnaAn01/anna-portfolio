@@ -9,6 +9,7 @@ export const SnsIcons = () => {
         <a
           target="_blank"
           rel="noreferrer"
+          aria-label="Email"
           href="mailto:arzumanyan.an@gmail.com"
         >
           <MdIcons.MdEmail className="sidebar-sns" />
@@ -18,13 +19,19 @@ export const SnsIcons = () => {
         <a
           target="_blank"
           rel="noreferrer"
+          aria-label="LinkedIn"
           href="https://linkedin.com/in/anna-arzumanyan/"
         >
           <FaIcons.FaLinkedin className="sidebar-sns" />
         </a>
       </span>
       <span className="social-media-span">
-        <a target="_blank" rel="noreferrer" href="https://github.com/AnnaAn01">
+        <a
+          target="_blank"
+          rel="noreferrer"
+          aria-label="GitHub"
+          href="https://github.com/AnnaAn01"
+        >
           <FaIcons.FaGithubSquare className="sidebar-sns" />
         </a>
       </span>
@@ -32,6 +39,7 @@ export const SnsIcons = () => {
         <a
           target="_blank"
           rel="noreferrer"
+          aria-label="Twitter"
           href="https://twitter.com/AnnaSoftwareDev"
         >
           <FaIcons.FaTwitterSquare className="sidebar-sns" />
@@ -39,7 +47,7 @@ export const SnsIcons = () => {
       </span>
       {/* 
       <span className="social-media-span">
-        <a target="_blank" rel="noreferrer" href="https://youtube.com">
+        <a target="_blank" rel="noreferrer" aria-label="Youtube" href="https://youtube.com">
           <FaIcons.FaYoutube className="sidebar-sns" />
         </a>
       </span> */}
